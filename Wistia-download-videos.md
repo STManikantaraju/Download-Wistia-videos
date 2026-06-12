@@ -1,4 +1,4 @@
-Download Wistia videos
+# Download Wistia videos
 
 1.	right-click on the playing video, select Copy link
 	
@@ -10,7 +10,7 @@ Download Wistia videos
    
 4.	look for "type":"original" in the page source and copy the URL from the next line 
 
-      e.g. "url":http://embed.wistia.com/deliveries/129720d1762175bcd8e06dcab926ec76ad38ff00.bin
+      e.g. "url": "http://embed.wistia.com/deliveries/129720d1762175bcd8e06dcab926ec76ad38ff00.bin"
 
       o	alternative: look for "type":"hd_mp4_video"
 
